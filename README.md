@@ -1,1 +1,1 @@
-# menuRandom
+Menu random es un simulador que contiene HTML, CSS, JAVASCRIPT que se usa para decidir el menu; puede ser usado como una moneda para cara, seca, para decidir ganador de elecciones y miles de suposiciones mas. # menuRandom
